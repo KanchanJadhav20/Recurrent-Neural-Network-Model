@@ -1,4 +1,4 @@
-           **** Recurrent-Neural-Network-Model ****
+## Recurrent-Neural-Network-Model 
 
 
 * Description
